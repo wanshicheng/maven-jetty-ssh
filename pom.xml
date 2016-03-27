@@ -321,7 +321,7 @@
 						<port>8787</port>
 					</httpConnector>
 					<webApp>
-						<contextPath>/maven-jetty-ssh</contextPath>
+						<contextPath>/wechat</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
